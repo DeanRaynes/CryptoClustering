@@ -1,1 +1,3 @@
 # CryptoClustering
+
+This project was using machine learning to cluster and label the data.  Using the K-Means method to cluster the data, and elbow curves to determine the best cluster number to utilize to cluster the data into.  This code also uses PCA to reduce the amount of data that you are using to better utilize storage and compute to get to the same level of clustering but with less data needed.  To use this notebook you can start at the top and work your way down through the workbook to see what using all of the data produces using the K-Means and then utilizing PCA and less data to produce a very similar cluster set.  
